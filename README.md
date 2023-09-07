@@ -1,5 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
+My name is Alejandro Pereira, y soy de Venezuela
+
+## Datos
+* Reviso como instalar git en
+* 
+## Skills
+*
+*
+
+##Contacto
+*
+*
 <!--
 **cantprueba/cantprueba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
